@@ -1,2 +1,7 @@
 # quiz
-Quiz | A tutorial by freeCodeCamp | [html, css, front-end web development, tutorial]
+
+## Quiz
+- Tutorial by freeCodeCamp 
+
+## Tags
+html, css, front-end web development, tutorial
